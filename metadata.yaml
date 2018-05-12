@@ -1,0 +1,31 @@
+_repo: Hooded-Detective-Volume-III-No.-2-January-1942_38466
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38466-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2012-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Pulp literature'
+tableOfContents: The Whispering Eye, by G. T. Fleming-Roberts -- Candidate for a coffin,
+  by T. W. Ford -- One hundred bucks per stiff, by J. Lloyd Conrich -- Death is deaf,
+  by Cliff Campbell -- Three guesses, by David Goodis -- The cop was a coward, by
+  Wilbur S. Peacock -- A dinner date with murder, by Harry Stein -- The strange case
+  of William Long, by Roy Giles -- Artistic murders misfire, by Mat Rand.
+title: Hooded Detective, Volume III No. 2, January, 1942
+url: http://www.gutenberg.org/ebooks/38466
